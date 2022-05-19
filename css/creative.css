@@ -1,0 +1,9 @@
+/*General Styles*/
+
+body {font-family: 'Montserrat', sans-serif;}
+p {font-size: 16px; line-height: 28px; font-weight: 500;}
+
+/*HEADER*/
+.header-wrapper .logo img {width: 70px; }
+.header-wrapper .menu-nav li {display: inline-block; padding:0 20px;  }
+.header-wrapper .menu-nav li a {font-size: 14px; letter-spacing: 1px;  text-transform: uppercase; font-weight: 500; }
