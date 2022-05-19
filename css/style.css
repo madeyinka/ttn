@@ -333,7 +333,7 @@ li {font-size: 13px;font-weight: 400;line-height: 30px;}
 
 .onepage-digital .rally-dot,
 .onepage-digital .rally-preloader .rally-dot {background-color: #fff; }
-.onepage-digital .rally-preloader {background-color: #0063ff;}
+.onepage-digital .rally-preloader {background-color: #84C567;}
 
 .landing-portfolio .rally-dot,
 .landing-portfolio .rally-preloader .rally-dot {background-color: #fff; }
@@ -366,7 +366,7 @@ li {font-size: 13px;font-weight: 400;line-height: 30px;}
 .invert-portfolio .header-wrapper .menu-nav li {margin: 0 0 0 60px; padding: 0; }
 .invert-portfolio .header-wrapper .menu-nav.text-white li a {color: #fff; }
 .invert-portfolio .header-wrapper .menu-nav li a {position: relative; color: #111; font-size: 14px; font-weight: 600; text-transform: capitalize;   letter-spacing: 0px;  line-height: 55px; }
-.invert-portfolio .header-wrapper .menu-nav li.active a:after {background-color: #024fff; height: 2px; width: 100%; content: ''; position: absolute; bottom: 0; left:0; }
+.invert-portfolio .header-wrapper .menu-nav li.active a:after {background-color: #84C567; height: 2px; width: 100%; content: ''; position: absolute; bottom: 0; left:0; }
 
 
 .landing-portfolio .header-wrapper.pos-header {position: absolute;top: 0;left: 0;width: 100%;z-index: 2;}
